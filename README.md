@@ -49,6 +49,6 @@ Tested to be 100% working on an iPod 7th Gen (Classic) [running rockbox v3.15]
 
 ### Credits to:
 - u/opanic on Reddit for the WPS Player "CD Player" display
-- K4sum1 for the battery, hold, and disk access icons
+- Shiyu Zheng for the battery, hold, and disk access icons
 - Arne (arnesava.com) for the font
 - Vera B for the [original Win95 theme](https://themes.rockbox.org/index.php?themeid=3560&target=ipod6g)
